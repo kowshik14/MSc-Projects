@@ -8,8 +8,8 @@ Welcome to my **Master's Project Portfolio** repository! This repository contain
   - [TweetGuard: Fake News Detection](#tweetguard-combining-transformer-and-bi-lstm-architectures-for-fake-news-detection)
   - [Fraud Detection in Supply Chain Analytics](#unveiling-hidden-patterns-a-deep-learning-framework-utilizing-pca-for-fraudulent-scheme-detection)
   - [AnimeLens: Personalized Anime Recommendations](#animelens-a-hybrid-approach-for-personalized-anime-recommendations)
-  - [MalHyStack: Malware Detection](#malhystack-detecting-obfuscated-malware-in-network-traffic)
-  - [EOG Signal Classification](#feature-extraction--classification-of-electrooculography-signal)
+  - [Impact of Transformations in Modeling and Forecasting with ARIMA](#impact-of-transformations-in-modeling-and-forecasting-with-ARIMA)
+  - [Exploring Customer Segmentation through Dimensionality Reduction and Clustering: A Comparative Analysis with KMeans, Hierarchical (Agglomerative), and DBSCAN in Python](#feature-extraction--classification-of-electrooculography-signal)
 - [Technologies Used](#technologies-used)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
@@ -48,10 +48,10 @@ Feel free to connect with me for collaborations or discussions!
   - Selected optimal ARIMA models using AIC, BIC, and forecasting accuracy measures.
   - Generated accurate forecasts, contributing to improved decision-making in time series analysis.
 
-### [Exploring Customer Segmentation through Dimensionality Reduction and Clustering: A Comparative Analysis with KMeans, Hierarchical (Agglomerative), and DBSCAN in Python]([link_to_project_folder](https://github.com/kowshik14/MSc-Projects/tree/93a5aad0b8dd7dbb530218030c119fd57e2ae01d/Exploring%20Customer%20Segmentation%20through%20Dimensionality%20Reduction%20and%20Clustering))
+### [Exploring Customer Segmentation through Dimensionality Reduction and Clustering: A Comparative Analysis with KMeans, Hierarchical (Agglomerative), and DBSCAN in Python](link_to_project_folder)
 - **Description**: 
 - **Key Contributions**:
-  - 
+  - Clustering, Data Mining
 
 ## Technologies Used
 - **Languages**: Python, R, SPSS, Hadoop
