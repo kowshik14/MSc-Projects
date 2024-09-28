@@ -18,3 +18,13 @@ The dataset includes:
 - **User Ratings**: User ratings for different anime titles.
 - **Viewing History**: Records of which anime users have watched.
 - **Metadata**: Additional features like release year, number of episodes, etc.
+
+## Tools and Technology
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Plotly](https://img.shields.io/badge/Plotly-orange?style=for-the-badge&logo=plotly)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-yellowgreen?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=matplotlib)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-orange?style=for-the-badge&logo=pandas)
+
