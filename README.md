@@ -7,7 +7,7 @@ Welcome to my **Master's Project Portfolio** repository! This repository contain
 - [Projects](#projects)
   - [TweetGuard: Fake News Detection](#tweetguard-combining-transformer-and-bi-lstm-architectures-for-fake-news-detection)
   - [Fraud Detection in Supply Chain Analytics](#unveiling-hidden-patterns-a-deep-learning-framework-utilizing-pca-for-fraudulent-scheme-detection)
-  - [AnimeLens: Personalized Anime Recommendations](#animelens-a-hybrid-approach-for-personalized-anime-recommendations)
+  - [AnimeLens: Personalized Anime Recommendations System](#animelens-a-hybrid-approach-for-personalized-anime-recommendations)
   - [Impact of Transformations in Modeling and Forecasting with ARIMA](#impact-of-transformations-in-modeling-and-forecasting-with-ARIMA)
   - [Exploring Customer Segmentation through Dimensionality Reduction and Clustering: A Comparative Analysis with KMeans, Hierarchical (Agglomerative), and DBSCAN in Python](#feature-extraction--classification-of-electrooculography-signal)
 - [Technologies Used](#technologies-used)
@@ -24,26 +24,26 @@ Feel free to connect with me for collaborations or discussions!
 
 ## Projects
 
-### [TweetGuard: Combining Transformer and Bi-LSTM Architectures for Fake News Detection](link_to_project_folder)
+### [TweetGuard: Combining Transformer and Bi-LSTM Architectures for Fake News Detection](https://github.com/kowshik14/FakeNewsDetection-TweetGuard)
 - **Description**: Developed a hybrid model named **TweetGuard** that combines Transformer and Bi-LSTM architectures for detecting fake news in large-scale tweets.
 - **Key Contributions**:
   - Designed a robust text preprocessing pipeline using BERTweet tokenization.
   - Conducted ablation studies to evaluate the performance of individual model components.
   - Demonstrated superior accuracy on the **TruthSeeker** dataset.
   
-### [Unveiling Hidden Patterns: A Deep Learning Framework Utilizing PCA for Fraudulent Scheme Detection](link_to_project_folder)
+### [Unveiling Hidden Patterns: A Deep Learning Framework Utilizing PCA for Fraudulent Scheme Detection](https://github.com/kowshik14/FraudDetection-SupplyChain)
 - **Description**: Developed a deep learning model that utilizes **PCA** for dimensionality reduction and **Bayesian optimization** for hyperparameter tuning to detect fraud in supply chain analytics.
 - **Key Contributions**:
   - Achieved a 94.71% fraud detection rate with 99.42% overall accuracy on the **DataCo** dataset.
   - Implemented **SMOTE** to handle class imbalance.
 
-### [AnimeLens: A Hybrid Approach for Personalized Anime Recommendations](link_to_project_folder)
+### [AnimeLens: A Hybrid Approach for Personalized Anime Recommendations](https://github.com/kowshik14/MSc-Projects/tree/main/Anime%20Recommendation%20System)
 - **Description**: Created a hybrid recommendation system that leverages **Deep Collaborative Filtering** and **TF-IDF Content-Based Filtering** to provide personalized anime recommendations.
 - **Key Contributions**:
   - Overcame the cold-start problem through hybrid filtering.
   - Enhanced user experience by providing accurate, diverse recommendations.
 
-### [Impact of Transformations in Modeling and Forecasting with ARIMA](link_to_project_folder)
+### [Impact of Transformations in Modeling and Forecasting with ARIMA](https://github.com/kowshik14/MSc-Projects/tree/main/Impact%20of%20Transformations%20in%20Modeling%20and%20Forecasting%20with%20ARIMA)
 - **Description**: Conducted an in-depth analysis of time series data using ARIMA models, focusing on achieving stationarity through differencing and various transformations. Utilized statistical tests (ADF and KPSS), model selection criteria, and forecasting techniques to ensure robust predictions, enhancing the overall effectiveness of time series analysis.
 - **Key Contributions**:
   - Achieved stationarity in time series data through systematic differencing and transformations.
@@ -51,7 +51,7 @@ Feel free to connect with me for collaborations or discussions!
   - Selected optimal ARIMA models using AIC, BIC, and forecasting accuracy measures.
   - Generated accurate forecasts, contributing to improved decision-making in time series analysis.
 
-### [Exploring Customer Segmentation through Dimensionality Reduction and Clustering: A Comparative Analysis with KMeans, Hierarchical (Agglomerative), and DBSCAN in Python](link_to_project_folder)
+### [Exploring Customer Segmentation through Dimensionality Reduction and Clustering: A Comparative Analysis with KMeans, Hierarchical (Agglomerative), and DBSCAN in Python](https://github.com/kowshik14/MSc-Projects/tree/main/Exploring%20Customer%20Segmentation%20through%20Dimensionality%20Reduction%20and%20Clustering)
 - **Description**: 
 - **Key Contributions**:
   - Clustering, Data Mining
