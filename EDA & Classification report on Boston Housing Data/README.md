@@ -16,7 +16,7 @@ This project involves performing Exploratory Data Analysis (EDA) and building cl
 - **Model Evaluation:**  
   Used evaluation metrics derived from the confusion matrix, including **accuracy**, **predicted positive/negative values**, **sensitivity (recall)**, **specificity**, and the **ROC curve** to assess model performance. **Random Forest** outperformed other models in terms of overall accuracy and ROC-AUC score.
 
-## Tools & Technologies:**  
+## Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
