@@ -5,11 +5,11 @@ Welcome to my **Master's Project Portfolio** repository! This repository contain
 ## Table of Contents
 - [About Me](#about-me)
 - [Projects](#projects)
-  - [TweetGuard: Fake News Detection](#tweetguard-combining-transformer-and-bi-lstm-architectures-for-fake-news-detection)
-  - [Fraud Detection in Supply Chain Analytics](#unveiling-hidden-patterns-a-deep-learning-framework-utilizing-pca-for-fraudulent-scheme-detection)
-  - [AnimeLens: Personalized Anime Recommendations System](#animelens-a-hybrid-approach-for-personalized-anime-recommendations)
-  - [Impact of Transformations in Modeling and Forecasting with ARIMA](#impact-of-transformations-in-modeling-and-forecasting-with-ARIMA)
-  - [Exploring Customer Segmentation through Dimensionality Reduction and Clustering: A Comparative Analysis with KMeans, Hierarchical (Agglomerative), and DBSCAN in Python](#feature-extraction--classification-of-electrooculography-signal)
+  - [TweetGuard: Combining Transformer and Bi-LSTM Architectures for Fake News Detection](#tweetguard-combining-transformer-and-bi-lstm-architectures-for-fake-news-detection)
+  - [Unveiling Hidden Patterns: A Deep Learning Framework Utilizing PCA for Fraudulent Scheme Detection](#unveiling-hidden-patterns-a-deep-learning-framework-utilizing-pca-for-fraudulent-scheme-detection)
+  - [AnimeLens: A Hybrid Approach for Personalized Anime Recommendations using Deep Collaborative Filtering and TF-IDF Content Based Filtering](#animelens-a-hybrid-approach-for-personalized-anime-recommendations-using-deep-collaborative-filtering-and-tf-idf-content-based-filtering)
+  - [Impact of Transformations in Modeling and Forecasting with ARIMA](#impact-of-transformations-in-modeling-and-forecasting-with-arima)
+  - [Exploring Customer Segmentation through Dimensionality Reduction and Clustering: A Comparative Analysis with KMeans, Hierarchical (Agglomerative), and DBSCAN in Python](#exploring-customer-segmentation-through-dimensionality-reduction-and-clustering-a-comparative-analysis-with-kmeans-hierarchical-agglomerative-and-dbscan-in-python)
 - [Technologies Used](#technologies-used)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
@@ -37,7 +37,7 @@ Feel free to connect with me for collaborations or discussions!
   - Achieved a 94.71% fraud detection rate with 99.42% overall accuracy on the **DataCo** dataset.
   - Implemented **SMOTE** to handle class imbalance.
 
-### [AnimeLens: A Hybrid Approach for Personalized Anime Recommendations](https://github.com/kowshik14/MSc-Projects/tree/main/Anime%20Recommendation%20System)
+### [AnimeLens: A Hybrid Approach for Personalized Anime Recommendations using Deep Collaborative Filtering and TF-IDF Content Based Filtering](https://github.com/kowshik14/MSc-Projects/tree/main/Anime%20Recommendation%20System)
 - **Description**: Created a hybrid recommendation system that leverages **Deep Collaborative Filtering** and **TF-IDF Content-Based Filtering** to provide personalized anime recommendations.
 - **Key Contributions**:
   - Overcame the cold-start problem through hybrid filtering.
@@ -52,18 +52,22 @@ Feel free to connect with me for collaborations or discussions!
   - Generated accurate forecasts, contributing to improved decision-making in time series analysis.
 
 ### [Exploring Customer Segmentation through Dimensionality Reduction and Clustering: A Comparative Analysis with KMeans, Hierarchical (Agglomerative), and DBSCAN in Python](https://github.com/kowshik14/MSc-Projects/tree/main/Exploring%20Customer%20Segmentation%20through%20Dimensionality%20Reduction%20and%20Clustering)
-- **Description**: 
+- **Description**: Performed unsupervised clustering on grocery firm customer data to identify distinct segments for targeted product development and personalized marketing strategies. Used PCA for dimensionality reduction and compared K-Means, Hierarchical Clustering, and DBSCAN for optimal segmentation.
 - **Key Contributions**:
-  - Clustering, Data Mining
+  - Applied dimensionality reduction techniques like PCA to streamline the data for efficient analysis.
+  - Performed comparative analysis using K-Means, Hierarchical (Agglomerative) Clustering, and DBSCAN algorithms to identify optimal customer clusters.
+  - Evaluated the performance of each algorithm based on clustering quality metrics such as silhouette score and Davies-Bouldin index.
+  - Visualized the clusters and patterns using Matplotlib and Seaborn to provide business insights.
+  - Provided actionable recommendations on product development and personalized marketing strategies based on the segmentation results.
 
 ## Technologies Used
 - **Languages**: Python, R, SPSS, Hadoop
 - **Frameworks**: TensorFlow, PyTorch, Scikit-learn
 - **Tools**: Google Colab, Git, Jupyter Notebooks, R Studio
-- **Techniques**: Machine Learning, Deep Learning, Data Mining, Statistical Tests, Time Series Analysis, Big Data
+- **Techniques**: Machine Learning, Deep Learning, Data Mining, Statistical Tests, Time Series Analysis, Big Data, Regression, Clustering
 
 ## Acknowledgments
 I would like to express my gratitude to my academic advisors, peers, and collaborators who contributed to the success of these projects. Special thanks to **Jahangirnagar University** for providing the platform to carry out this research.
 
 ## License
-This repository is licensed under the MIT License. See the [LICENSE](link_to_license) file for more details.
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/kowshik14/MSc-Projects/blob/main/LICENSE) file for more details.
