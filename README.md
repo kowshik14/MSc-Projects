@@ -17,7 +17,10 @@ Welcome to my **Master's Project Portfolio** repository! This repository contain
 ## About Me
 I am **Kowshik Sankar Roy**, a passionate Data Scientist with a background in **Electronics and Communication Engineering** and an **M.Sc. in Applied Statistics and Data Science**. My work focuses on data-driven solutions using machine learning, deep learning, and statistical modeling to solve real-world problems. Throughout my master's, I have developed various projects, which you can explore in this repository.
 
-Feel free to connect with me for collaborations or discussions!
+Feel free to connect with me for collaborations or discussions!      
+
+[![Email](https://img.shields.io/badge/Email-kowshikroy777@gmail.com-blue?style=flat-square)](mailto:kowshikroy777@gmail.com)    [![Website](https://img.shields.io/badge/Website-Portfolio-4D8FAC?style=flat-square)](https://sites.google.com/view/kowshikroy)  
+
 
 ## Projects
 
